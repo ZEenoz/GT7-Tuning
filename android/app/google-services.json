@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741464755928",
+    "project_id": "gt7-tuner",
+    "storage_bucket": "gt7-tuner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741464755928:android:c5dddf609998906e4491ad",
+        "android_client_info": {
+          "package_name": "com.example.gt7_tuning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjeHbBCRoRukLRR_yRBzryOvZifSAf-u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
